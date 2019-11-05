@@ -2,7 +2,7 @@ def find_item_by_name_in_collection(name, collection)
   # Implement me first!
   grocery_items = {}
   while name 
-    grocery_items = {name => collection}
+    grocery_items = {:name => collection}
   end
   # Consult README for inputs and outputs
 end
